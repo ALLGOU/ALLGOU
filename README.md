@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Allan Goulart</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="30px">, eu sou Allan Goulart</h1>
 
 ✨Atualmente estou focado em estudar HTML, CSS e JS para me tornar um desenvolvedor Front End(mais para frente FULL), 
 e fazer minha transição de carreira para a área  de desenvolvimento. 
